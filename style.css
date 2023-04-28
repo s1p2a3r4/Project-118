@@ -1,0 +1,17 @@
+body{
+    background-color: lightcyan;
+}
+
+#score{
+    font-size:35px;
+    margin-right: 950px;
+}
+
+#timer{
+    font-size: 35px;
+}
+
+#sketch{
+    font-size: 20px;
+    color: mediumblue;
+}
